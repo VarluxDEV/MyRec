@@ -1,1 +1,1 @@
-
+# MyRec ban list - one userid per line
